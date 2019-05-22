@@ -5,7 +5,7 @@
   "dependencies": {
     "brace": "^0.11.1",
     "cors-anywhere": "^0.4.1",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "glot-api": "^0.1.0",
     "material-ui": "^0.20.0",
     "react": "^16.2.0",
@@ -22,5 +22,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://shivamd20.github.io/CodeEjung/"
+  "homepage": "https://ryaen.github.io/Practical-SSEC/"
 }
